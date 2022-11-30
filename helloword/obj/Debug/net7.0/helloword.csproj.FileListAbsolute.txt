@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Tranduchung_nhom31\helloword\bin\Debug\net7.0\helloword.exe
+C:\Users\Admin\Desktop\Tranduchung_nhom31\helloword\bin\Debug\net7.0\helloword.deps.json
+C:\Users\Admin\Desktop\Tranduchung_nhom31\helloword\bin\Debug\net7.0\helloword.runtimeconfig.json
+C:\Users\Admin\Desktop\Tranduchung_nhom31\helloword\bin\Debug\net7.0\helloword.dll
+C:\Users\Admin\Desktop\Tranduchung_nhom31\helloword\bin\Debug\net7.0\helloword.pdb
+C:\Users\Admin\Desktop\Tranduchung_nhom31\helloword\obj\Debug\net7.0\helloword.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Tranduchung_nhom31\helloword\obj\Debug\net7.0\helloword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Tranduchung_nhom31\helloword\obj\Debug\net7.0\helloword.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Tranduchung_nhom31\helloword\obj\Debug\net7.0\helloword.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Tranduchung_nhom31\helloword\obj\Debug\net7.0\helloword.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Tranduchung_nhom31\helloword\obj\Debug\net7.0\helloword.dll
+C:\Users\Admin\Desktop\Tranduchung_nhom31\helloword\obj\Debug\net7.0\refint\helloword.dll
+C:\Users\Admin\Desktop\Tranduchung_nhom31\helloword\obj\Debug\net7.0\helloword.pdb
+C:\Users\Admin\Desktop\Tranduchung_nhom31\helloword\obj\Debug\net7.0\helloword.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Tranduchung_nhom31\helloword\obj\Debug\net7.0\ref\helloword.dll
